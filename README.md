@@ -1,21 +1,3 @@
-
-1 of 222
-Exploit-Master12-Linuxkill
-Inbox
-
-Saurabh Gothivrekar <saurabh40@gmail.com>
-Attachments
-10:14 PM (0 minutes ago)
-to me
-
-
-
---
-Warm regards,
-Saurabh Gothivrekar
-(469) 412 0542
- One attachment
-  •  Scanned by Gmail
 # Linuxkill
 Behold: The unique *LINUX UNBLOCKER*
 Ok,so I figured out that the Opera Browser company made a product called
@@ -57,11 +39,23 @@ Good boy! (Laughs) 😆 XD
 In the files,select "downloads".
 Now lick a file called "Opera-developer-setup",or something like that.
 Sorry,did I say "lick"? I meant "Click"! Ha!
-Select "Open" and click whatever else you need to do.
+Select "Open" and wait until it loads.
 
 
 
 4.Go to your apps.
 Select "Opera dev"
 Behold: UNRESTRICTED BROWSING!!
+
+***NOTES!!***
+There are many browsers that can run on linux.To to the files that I have to see.
+
+
+
+
+
+
+
 Follow for more exploits,    -Exploit_Master12 🙂 =-)
+
+
