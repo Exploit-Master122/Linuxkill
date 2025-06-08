@@ -27,22 +27,22 @@ If you see a "Remove" button instead,then skip to the next step.
 If you see a "Install" button,or something like that,click it,and wait until it downloads.
 Did it download? Good.Now close those tabs.
 
-2.Now,Download this:
-```
-https://download.opera.com/download/get/?id=70125&location=424&nothanks=yes&sub=marine&utm_tryagain=yes
-```
-Good boy! (Laughs) 😆 XD
+2.Now,Download any file that you want from here:
+- So,go to the [File Library](https://github.com/Exploit-Master122/Linuxkill/blob/main/linuxlinks.html)
+- Type them into the search bar in a new tab,otherwise,they won't download.
+- Make sure to drag the link into your bookmarks bar.Spam click it but only as a last resort ***IF IT'S NOT WORKING!!***
+- Good boy!! 😆 =-D
 
 
 
 3.Finally,go to files.
-In the files,select "downloads".
+- In the files,select "downloads".
 Now lick a file called "Opera-developer-setup",or something like that.
 Sorry,did I say "lick"? I meant "Click"! Ha!
 Select "Open" and wait until it loads.
 
 
-
+<p> <dev>
 4.Go to your apps.
 Select "Opera dev"
 Behold: UNRESTRICTED BROWSING!!
