@@ -33,23 +33,20 @@ Did it download? Good.Now close those tabs.
 - Make sure to drag the link into your bookmarks bar.Spam click it but only as a last resort ***IF IT'S NOT WORKING!!***
 - Good boy!! 😆 =-D
 
-
+<p> <dev>
 
 3.Finally,go to files.
-- In the files,select "downloads".
-Now lick a file called "Opera-developer-setup",or something like that.
-Sorry,did I say "lick"? I meant "Click"! Ha!
-Select "Open" and wait until it loads.
-
-
+- In the files,select your downloads and search for your downloaded file.
+- Did you see it? Select *open*
+- It will ask you if you are sure you want to install it.*Continue.*
+- It should install within a minute or two.
 <p> <dev>
-4.Go to your apps.
-Select "Opera dev"
-Behold: UNRESTRICTED BROWSING!!
 
-***NOTES!!***
-There are many browsers that can run on linux.To to the files that I have deployed in the repository.
-
+- Go to your apps.Within a folder called *Linux apps*,search for it!
+- Select your browser,and wait for it to load...
+- If it worked,then... ***UNRESTRICTED BROWSING!!*** Yes!! It worked!
+<p> <dev>
+# NEW EXPLOIT!
 ## Microsoft Labs *Virtualbox but it got 20 doses of the COVID Vaccine*
 
 Thanks a bunch Bill Gates!
