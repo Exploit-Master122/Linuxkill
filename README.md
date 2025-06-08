@@ -13,7 +13,7 @@ and It has been auto-updated to chrome://version 130 or something and therefore 
 So,I will say this only once: *opera will only work once linux is unblocked*
 
 **EXPLOIT** 
-1 First,go to 
+First,go to 
 ```
 chrome://settings/
 ```
